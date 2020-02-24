@@ -1,0 +1,45 @@
+ADT
+talk about abstract data types
+1
+5
+n
+stacks
+talks about stacks
+2
+24
+n
+queues
+talks about queues
+2
+25
+n
+recursion
+recursive calls and the like
+4
+30
+y
+DLL
+talks about doubly linked lists
+5
+40
+n
+CLL
+talks about circular linked lists
+5
+45
+y
+hash tables
+this program assignment. oh my.
+6
+60
+y
+trees
+binary search trees in particular
+7
+75
+y
+insert
+this is for testing
+5
+5
+n
